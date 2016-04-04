@@ -43,7 +43,7 @@ menu,
 nav,
 section,
 summary {
-  display: inline;
+  display: center;
 }
 
 /**
@@ -87,7 +87,7 @@ template {
  */
 
 a {
-  background-color: white;
+  background-color: transparent;
 }
 
 /**

@@ -1,6 +1,9 @@
 * {
   box-sizing: border-box; }
 
+body {
+  display: inline-block;
+}
 
 a {
   color: #1e6bb8;

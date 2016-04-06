@@ -46,6 +46,10 @@ a {
 
 
 }
+
+.main-content {
+  display:inline;
+}
 .main-content :first-child {
   margin-top: 0; }
 .main-content img {

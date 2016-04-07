@@ -24,6 +24,7 @@ html, body {
   text-align: justify;
   position:center;
   float: center;
+  background-color: #333
 }
 
 .nav li {

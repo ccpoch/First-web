@@ -30,13 +30,13 @@ html, body {
 
 .nav li {
   display:inline;
-  margin: 20px;
   padding:50px;
   background-color:blue;
 }
 
 .nav ul {
   background-color:blue;
+  margin:25px;
 }
 
 .nav a {

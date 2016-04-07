@@ -20,6 +20,11 @@ html, body {
   opacity:1;
 }
 
+.nav {
+  display: inline;
+  text-align: center;
+  font-weight:100;
+}
 .ul {
   list-style-type: none;
   margin: 0;

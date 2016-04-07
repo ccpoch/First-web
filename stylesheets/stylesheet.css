@@ -35,10 +35,10 @@ html, body {
 }
 
 .nav ul {
-  background-color:blue;
-  margin:25px;
+ border: 1px solid #e7e7e7;
+background-color: #f3f3f3;
 }
 
-.nav a {
-  color:white;
+.nav li a {
+  color: #666;
 }

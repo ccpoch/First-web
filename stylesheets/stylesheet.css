@@ -17,7 +17,11 @@ background-color: #333;
 .nav li {
   display:inline;
   padding:20px;
-  border: 1px solid #e7e7e7 ;
+  border-right: 1px solid #bbb;
+}
+
+.nav li:last-child {
+    border-right: none;
 }
 
 .nav li a {

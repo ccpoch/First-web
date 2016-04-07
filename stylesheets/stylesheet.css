@@ -16,4 +16,5 @@ body {
   background-image: url("http://webneel.com/wallpaper/sites/default/files/images/08-2013/10-star-fish-sea-beach-sand-wallpaper.jpg");
   background-position: center;
   background-size: cover;
+  opacity:0.6;
 }

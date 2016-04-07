@@ -1,1 +1,13 @@
+.page-header {
+  text-align: center;
+  font-weight: 150;
+}
 
+
+html, body {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-weight: 300;
+  line-height: 1.5;
+}

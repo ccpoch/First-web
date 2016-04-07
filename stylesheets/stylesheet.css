@@ -22,8 +22,7 @@ html, body {
 
 .nav {
   text-align: justify;
-  font-weight:100;
-  position:fixed;
+  position:center;
   float: center;
 }
 

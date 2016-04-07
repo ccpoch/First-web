@@ -13,8 +13,8 @@ html, body {
 }
 
 body {
-  background-image url('http://webneel.com/wallpaper/i/5-beach-sand-sea-shell-wallpaper/1845/o/9109');
-  
+ 
+  background-image: url('https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-3/background.jpg');
   background-position: center;
   background-size: cover;
 }

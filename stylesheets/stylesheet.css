@@ -1,23 +1,9 @@
-.page-header {
-  text-align: center;
-  font-weight: 300;
-  background-color: white;
-  margin:50px;
-}
-
 
 html, body {
   min-height: 100%;
   display: inline;
   font-weight: 300;
   line-height: 1.5;
-}
-
-.main-content {
-  background-image: url("http://webneel.com/wallpaper/sites/default/files/images/08-2013/10-star-fish-sea-beach-sand-wallpaper.jpg");
-  background-position: center;
-  background-size: cover;
-  opacity:1;
 }
 
 .nav {
@@ -46,3 +32,17 @@ background-color: #333
  .nav li a:hover {
     background-color: #111;
 }
+
+.page-header {
+  text-align: center;
+  font-weight: 300;
+  background-color: white;
+  margin:50px;
+}
+  
+  .main-content {
+  background-image: url("http://webneel.com/wallpaper/sites/default/files/images/08-2013/10-star-fish-sea-beach-sand-wallpaper.jpg");
+  background-position: center;
+  background-size: cover;
+  opacity:1;
+  }

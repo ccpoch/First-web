@@ -10,7 +10,7 @@ html, body {
   text-align: justify;
   position:center;
   float: center;
-  background-color: #333
+  background-color: #333;
 }
 
 .nav li {
@@ -21,7 +21,7 @@ html, body {
 
 .nav ul {
  border: 1px solid #e7e7e7;
-background-color: #333
+background-color: #333;
 }
 
 .nav li a {

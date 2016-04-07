@@ -11,12 +11,11 @@ html, body {
   position:center;
   float: center;
   background-color: #333;
+  clear:right;
 }
 
 .nav li {
   display:inline;
-  padding:50px;
-  float: left;
 }
 
 .nav ul {
@@ -25,12 +24,8 @@ background-color: #333;
 }
 
 .nav li a {
-  color: #white;
+  color: white;
   text-align: center;
-  padding: 14px 16px;
-}
- .nav li a:hover {
-    background-color: #111;
 }
 
 .page-header {

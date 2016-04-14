@@ -47,18 +47,3 @@ background-color: #333;
 .cosas {
   border-bottom: 2px solid #e8e8ee
 }
-
-.GALLERY-ITEM {
-margin: 20px;
-background-color:#e8e8ee;
-width:600px;
-  
-}
-
-.gallery-item img{
-  position:left;
-}
-.gallery-item a{
-  position: center;
-  text-align: left;
-}

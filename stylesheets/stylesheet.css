@@ -31,9 +31,11 @@ background-color: #333;
 }
 
 .content {
- margin:150px;
+ margin-right: 150px;
+ margin-left:150px;
  border-left: 1px solid black;
  border-right: 1px solid black;
+ color:yellow;
 }
 
 

@@ -36,15 +36,4 @@ background-color: #333;
  border-right: 1px solid black;
 }
 
-.page-header {
-  margin:150px;
-  border: 1px solid black;
-  padding: 50px;
-  float: left;
-}
 
-.actividades {
-  margin:10px;
-  border: 1px solid red;
-  padding: 20px;
-}

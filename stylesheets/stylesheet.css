@@ -35,10 +35,12 @@ background-color: #333;
  border-right: 100px solid #fffbff;
  background-color:white;
  padding:20px;
+ text-align: center;
 }
 
 .page-header {
   padding:20px;
+  border-bottom: 2px solid #fffbff;
 }
 
 .actividades{

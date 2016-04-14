@@ -51,3 +51,6 @@ background-color: #333;
 .cosas img {
   float:left;
 }
+.cosas a {
+  clear:left;
+}

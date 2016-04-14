@@ -32,7 +32,7 @@ background-color: #333;
 
 .page-header {
   margin:10px;
-  border-right: 1px solid black;
-
+  border: 1px solid black;
+  
 }
 

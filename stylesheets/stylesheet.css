@@ -31,11 +31,9 @@ background-color: #333;
 }
 
 .content {
- margin-right: 150px;
- margin-left:150px;
- border-left: 1px solid #cccccc;
- border-right: 1px solid #cccccc;
- background-color:#d3d3d3;
+ border-left: 100px solid #cccccc;
+ border-right: 100px solid #cccccc;
+ background-color:white;
  padding:20px;
 }
 

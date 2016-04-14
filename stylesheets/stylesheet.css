@@ -30,6 +30,10 @@ background-color: #333;
   padding: 20px 20px;
 }
 
+.content {
+  display: inline;
+}
+
 .page-header {
   margin:10px;
   border: 1px solid black;

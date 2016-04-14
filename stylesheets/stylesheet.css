@@ -31,7 +31,9 @@ background-color: #333;
 }
 
 .content {
-  display: inline;
+ margin:150px;
+ border-left: 1px solid black;
+ border-right: 1px solid black;
 }
 
 .page-header {

@@ -46,6 +46,7 @@ background-color: #333;
 
 .cosas {
   border-bottom: 2px solid #e8e8ee
+  height:320px;
 }
 .cosas img {
   float:left;

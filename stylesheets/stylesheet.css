@@ -43,21 +43,3 @@ background-color: #333;
   border-bottom: 2px solid #e8e8ee;
 }
 
-.actividades{
-  padding:20px;
-  text-decoration:none ;
-}
-.ul#actividades {
-  text-decoration:none;
-  display: inline;
-}
-
-.actividades li{
-  display: inline;
-  text-decoration:none;
-}
-
-.ul#actividades li{
-  display:inline;
-  text-decoration:none;
-}

@@ -33,6 +33,7 @@ background-color: #333;
 .page-header {
   margin:10px;
   border: 1px solid black;
-  
+  padding: 50px;
+  display:block;
 }
 

@@ -51,7 +51,6 @@ background-color: #333;
   margin: 10px solid white;
   padding: 10px solid #e8e8ee;
   border-bottom: 2px solid #e8e8ee
-  width: 25%;
 }
 
 .cosas img{
@@ -59,6 +58,8 @@ background-color: #333;
   margin:20px;
 }
 
-.cosas a{
-  float:right;
+.GALLERY-ITEM {
+   margin: 20px;
+  border: 5px solid #e8e8ee;
 }
+

@@ -55,3 +55,12 @@ background-color: #333;
   clear:left;
   position:center;
 }
+.cosas h3 {
+  clear:left;
+  position:center;
+}
+
+.cosas p{
+  position: left;
+  width: 400px;
+}

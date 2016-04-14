@@ -47,7 +47,7 @@ background-color: #333;
   padding:20px;
   text-decoration:none ;
 }
-.actividades ul{
+.ul#actividades {
   text-decoration:none;
   display: inline;
 }
@@ -57,3 +57,7 @@ background-color: #333;
   text-decoration:none;
 }
 
+.ul#actividades li{
+  display:inline;
+  text-decoration:none;
+}

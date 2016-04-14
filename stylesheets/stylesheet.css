@@ -35,7 +35,8 @@ background-color: #333;
  margin-left:150px;
  border-left: 1px solid black;
  border-right: 1px solid black;
- color:yellow;
+ background-color:yellow;
+ padding:20px;
 }
 
 

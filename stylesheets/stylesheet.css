@@ -60,3 +60,8 @@ background-color: #333;
   border: 5px solid #e8e8ee;
 }
 
+.gallery-item img{
+  display:float;
+
+}
+

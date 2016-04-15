@@ -1,3 +1,6 @@
+.body {
+  width:100%;
+} 
 
 .nav {
   text-align: justify;
@@ -8,6 +11,7 @@
   padding: 10px 150px;
   border: 1px solid #e7e7e7;
   color: white;
+  width:100%;
 }
 
 .nav ul {
@@ -36,11 +40,13 @@ background-color: #333;
  background-color:white;
  padding:20px;
  text-align: center;
+ width:100%;
 }
 
 .page-header {
   padding:20px;
   border-bottom: 2px solid #e8e8ee;
+  width:100%;
 }
 
 .galeria {
